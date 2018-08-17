@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1379944636 source:p:\programmi in c\vinval\main.cpp
+	<iostream>
+	<ctime>
+	"simpleini/SimpleIni.h"
+	"prototype.pro"
+	"version.h"
+
+1317674664 p:\programmi in c\vinval\simpleini\simpleini.h
+	<cstring>
+	<string>
+	<map>
+	<list>
+	<algorithm>
+	<stdio.h>
+	<iostream>
+	<cassert>
+	<unicode/ustring.h>
+	<wchar.h>
+	"ConvertUTF.h"
+	<unicode/ucnv.h>
+	<windows.h>
+	<mbstring.h>
+
+1317674664 p:\programmi in c\vinval\simpleini\convertutf.h
+
+1379608946 p:\programmi in c\vinval\prototype.pro
+
+1379944400 p:\programmi in c\vinval\version.h
+
+1391697403 source:p:\programmi in c\vival\main.cpp
+	<iostream>
+	<ctime>
+	"simpleini/SimpleIni.h"
+	"prototype.pro"
+	"version.h"
+
+1317671064 p:\programmi in c\vival\simpleini\simpleini.h
+	<cstring>
+	<string>
+	<map>
+	<list>
+	<algorithm>
+	<stdio.h>
+	<iostream>
+	<cassert>
+	<unicode/ustring.h>
+	<wchar.h>
+	"ConvertUTF.h"
+	<unicode/ucnv.h>
+	<windows.h>
+	<mbstring.h>
+
+1317671064 p:\programmi in c\vival\simpleini\convertutf.h
+
+1379605346 p:\programmi in c\vival\prototype.pro
+
+1391697403 p:\programmi in c\vival\version.h
+
